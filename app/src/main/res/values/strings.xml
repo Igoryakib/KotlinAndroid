@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">marketplace</string>
+    <string name="field_unFill">All fields are required</string>
+</resources>
